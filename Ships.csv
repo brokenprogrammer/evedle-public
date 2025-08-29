@@ -1,0 +1,341 @@
+Name,Faction,Class,Size,Role,Tech
+Impairor,Amarr,Corvette,Small,Rookie,T1
+Ibis,Caldari,Corvette,Small,Rookie,T1
+Velator,Gallente,Corvette,Small,Rookie,T1
+Reaper,Minmatar,Corvette,Small,Rookie,T1
+Magnate,Amarr,Frigate,Small,Exploration,T1
+Punisher,Amarr,Frigate,Small,Combat,T1
+Tormentor,Amarr,Frigate,Small,Combat,T1
+Crucifier,Amarr,Frigate,Small,EWAR,T1
+Executioner,Amarr,Frigate,Small,Tackle,T1
+Inquisitor,Amarr,Frigate,Small,Logistics,T1
+Kestrel,Caldari,Frigate,Small,Combat,T1
+Bantam,Caldari,Frigate,Small,Logistics,T1
+Condor,Caldari,Frigate,Small,Tackle,T1
+Griffin,Caldari,Frigate,Small,EWAR,T1
+Merlin,Caldari,Frigate,Small,Combat,T1
+Heron,Caldari,Frigate,Small,Exploration,T1
+Navitas,Gallente,Frigate,Small,Logistics,T1
+Tristan,Gallente,Frigate,Small,Combat,T1
+Incursus,Gallente,Frigate,Small,Combat,T1
+Imicus,Gallente,Frigate,Small,Exploration,T1
+Atron,Gallente,Frigate,Small,Tackle,T1
+Maulus,Gallente,Frigate,Small,EWAR,T1
+Slasher,Minmatar,Frigate,Small,Tackle,T1
+Probe,Minmatar,Frigate,Small,Exploration,T1
+Rifter,Minmatar,Frigate,Small,Combat,T1
+Breacher,Minmatar,Frigate,Small,Combat,T1
+Burst,Minmatar,Frigate,Small,Logistics,T1
+Vigil,Minmatar,Frigate,Small,EWAR,T1
+Worm,Guristas,Frigate,Small,Combat,Faction
+Succubus,Sansha,Frigate,Small,Combat,Faction
+Cruor,Blood Raiders,Frigate,Small,EWAR,Faction
+Dramiel,Angel Cartel,Frigate,Small,Combat,Faction
+Daredevil,Serpentis,Frigate,Small,Combat,Faction
+Astero,Sisters of EVE,Frigate,Small,Exploration,Faction
+Garmur,Mordus Legion,Frigate,Small,Combat,Faction
+Damavik,Triglavian,Frigate,Small,Combat,T1
+Skybreaker,Edencom,Frigate,Small,Combat,T1
+Metamorphosis,SoCT,Frigate,Small,Exploration,T1
+Imperial Navy Slicer,Amarr,Navy Frigate,Small,Combat,Faction
+Crucifier Navy Issue,Amarr,Navy Frigate,Small,EWAR,Faction
+Magnate Navy Issue,Amarr,Navy Frigate,Small,Exploration,Faction
+Griffin Navy Issue,Caldari,Navy Frigate,Small,EWAR,Faction
+Heron Navy Issue,Caldari,Navy Frigate,Small,Exploration,Faction
+Caldary Navy Hookbill,Caldari,Navy Frigate,Small,Combat,Faction
+Federation Navy Comet,Gallente,Navy Frigate,Small,Combat,Faction
+Imicus Navy Issue,Gallente,Navy Frigate,Small,Exploration,Faction
+Maulus Navy Issue,Gallente,Navy Frigate,Small,EWAR,Faction
+Vigil Fleet Issue,Minmatar,Navy Frigate,Small,EWAR,Faction
+Republic Fleet Firetail,Minmatar,Navy Frigate,Small,Combat,Faction
+Probe Fleet Issue,Minmatar,Navy Frigate,Small,Exploration,Faction
+Crusader,Amarr,Interceptor,Small,Tackle,T2
+Malediction,Amarr,Interceptor,Small,Tackle,T2
+Crow,Caldari,Interceptor,Small,Tackle,T2
+Raptor,Caldari,Interceptor,Small,Tackle,T2
+Taranis,Gallente,Interceptor,Small,Tackle,T2
+Ares,Gallente,Interceptor,Small,Tackle,T2
+Claw,Minmatar,Interceptor,Small,Tackle,T2
+Stiletto,Minmatar,Interceptor,Small,Tackle,T2
+Retribution,Amarr,Assault Frigate,Small,Combat,T2
+Vengeance,Amarr,Assault Frigate,Small,Combat,T2
+Hawk,Caldari,Assault Frigate,Small,Combat,T2
+Harpy,Caldari,Assault Frigate,Small,Combat,T2
+Ishkur,Gallente,Assault Frigate,Small,Combat,T2
+Enyo,Gallente,Assault Frigate,Small,Combat,T2
+Jaguar,Minmatar,Assault Frigate,Small,Combat,T2
+Wolf,Minmatar,Assault Frigate,Small,Combat,T2
+Nergal,Triglavian,Assault Frigate,Small,Combat,T2
+Anathema,Amarr,Covert Ops,Small,Exploration,T2
+Purifier,Amarr,Covert Ops,Small,Combat,T2
+Buzzard,Caldari,Covert Ops,Small,Exploration,T2
+Manticore,Caldari,Covert Ops,Small,Combat,T2
+Helios,Gallente,Covert Ops,Small,Exploration,T2
+Nemesis,Gallente,Covert Ops,Small,Combat,T2
+Cheetah,Minmatar,Covert Ops,Small,Exploration,T2
+Hound,Minmatar,Covert Ops,Small,Combat,T2
+Pacifier,Concord,Covert Ops,Small,Exploration,T2
+Sentinel,Amarr,Electronic Attack Ship,Small,EWAR,T2
+Kitsune,Caldari,Electronic Attack Ship,Small,EWAR,T2
+Keres,Gallente,Electronic Attack Ship,Small,EWAR,T2
+Hyena,Minmatar,Electronic Attack Ship,Small,EWAR,T2
+Deacon,Amarr,Logistics Frigate,Small,Logistics,T2
+Kirin,Caldari,Logistics Frigate,Small,Logistics,T2
+Thalia,Gallente,Logistics Frigate,Small,Logistics,T2
+Scalpel,Minmatar,Logistics Frigate,Small,Logistics,T2
+Coercer,Amarr,Destroyer,Small,Combat,T1
+Dragoon,Amarr,Destroyer,Small,Combat,T1
+Corax,Caldari,Destroyer,Small,Combat,T1
+Cormorant,Caldari,Destroyer,Small,Combat,T1
+Algos,Gallente,Destroyer,Small,Combat,T1
+Catalyst,Gallente,Destroyer,Small,Combat,T1
+Talwar,Minmatar,Destroyer,Small,Combat,T1
+Thrasher,Minmatar,Destroyer,Small,Combat,T1
+Mamba,Guristas,Destroyer,Small,Combat,Faction
+Mekubal,Angel Cartel,Destroyer,Small,Combat,Faction
+Kikimora,Triglavian,Destroyer,Small,Combat,T1
+Sunesis,SoCT,Destroyer,Small,Combat,T1
+Tholos,Deathless Circle,Destroyer,Small,Combat,Faction
+Coercer Navy Issue,Amarr,Navy Destroyer,Small,Combat,Faction
+Cormorant Navy Issue,Caldari,Navy Destroyer,Small,Combat,Faction
+Catalyst Navy Issue,Gallente,Navy Destroyer,Small,Combat,Faction
+Thrasher Navy Issue,Minmatar,Navy Destroyer,Small,Combat,Faction
+Heretic,Amarr,Interdictor,Small,Tackle,T2
+Flycatcher,Caldari,Interdictor,Small,Tackle,T2
+Eris,Gallente,Interdictor,Small,Tackle,T2
+Sabre,Minmatar,Interdictor,Small,Tackle,T2
+Pontifex,Amarr,Command Destroyer,Small,Logistics,T2
+Stork,Caldari,Command Destroyer,Small,Logistics,T2
+Magnus,Gallente,Command Destroyer,Small,Logistics,T2
+Bifrost,Minmatar,Command Destroyer,Small,Logistics,T2
+Draugur,Triglavian,Command Destroyer,Small,Logistics,T2
+Confessor,Amarr,Tactical Destroyer,Small,Combat,T3
+Jackdaw,Caldari,Tactical Destroyer,Small,Combat,T3
+Hecate,Gallente,Tactical Destroyer,Small,Combat,T3
+Svipul,Minmatar,Tactical Destroyer,Small,Combat,T3
+Augor,Amarr,Cruiser,Medium,Logistics,T1
+Omen,Amarr,Cruiser,Medium,Combat,T1
+Maller,Amarr,Cruiser,Medium,Combat,T1
+Arbitrator,Amarr,Cruiser,Medium,EWAR,T1
+Caracal,Caldari,Cruiser,Medium,Combat,T1
+Moa,Caldari,Cruiser,Medium,Combat,T1
+Osprey,Caldari,Cruiser,Medium,Logistics,T1
+Blackbird,Caldari,Cruiser,Medium,EWAR,T1
+Thorax,Gallente,Cruiser,Medium,Combat,T1
+Vexor,Gallente,Cruiser,Medium,Combat,T1
+Celestis,Gallente,Cruiser,Medium,EWAR,T1
+Exequror,Gallente,Cruiser,Medium,Logistics,T1
+Rupture,Minmatar,Cruiser,Medium,Combat,T1
+Stabber,Minmatar,Cruiser,Medium,Combat,T1
+Bellicose,Minmatar,Cruiser,Medium,EWAR,T1
+Scythe,Minmatar,Cruiser,Medium,Logistics,T1
+Gila,Guristas,Cruiser,Medium,Combat,Faction
+Phantasm,Sansha,Cruiser,Medium,Combat,Faction
+Ashimmu,Blood Raiders,Cruiser,Medium,EWAR,Faction
+Cynabal,Angel Cartel,Cruiser,Medium,Combat,Faction
+Vigilant,Serpentis,Cruiser,Medium,Combat,Faction
+Stratios,Sisters of EVE,Cruiser,Medium,Exploration,Faction
+Orthrus,Mordus Legion,Cruiser,Medium,Combat,Faction
+Vedmak,Triglavian,Cruiser,Medium,Combat,T1
+Rodiva,Triglavian,Cruiser,Medium,Logistics,T1
+Stormbringer,Edencom,Cruiser,Medium,Combat,T1
+Augor Navy Issue,Amarr,Navy Cruiser,Medium,Combat,Faction
+Omen Navy Issue,Amarr,Navy Cruiser,Medium,Combat,Faction
+Osprey Navy Issue,Caldari,Navy Cruiser,Medium,Combat,Faction
+Caracal Navy Issue,Caldari,Navy Cruiser,Medium,Combat,Faction
+Exequror Navy Issue,Gallente,Navy Cruiser,Medium,Combat,Faction
+Vexor Navy Issue,Gallente,Navy Cruiser,Medium,Combat,Faction
+Scythe Fleet Issue,Minmatar,Navy Cruiser,Medium,Combat,Faction
+Stabber Fleet Issue,Minmatar,Navy Cruiser,Medium,Combat,Faction
+Curse,Amarr,Recon Ship,Medium,EWAR,T2
+Pilgrim,Amarr,Recon Ship,Medium,EWAR,T2
+Rook,Caldari,Recon Ship,Medium,EWAR,T2
+Falcon,Caldari,Recon Ship,Medium,EWAR,T2
+Lachesis,Gallente,Recon Ship,Medium,Tackle,T2
+Arazu,Gallente,Recon Ship,Medium,Tackle,T2
+Huginn,Minmatar,Recon Ship,Medium,Tackle,T2
+Rapier,Minmatar,Recon Ship,Medium,Tackle,T2
+Enforcer,Concord,Recon Ship,Medium,Tackle,T2
+Monitor,Concord,Flag Cruiser,Medium,Logistics,T2
+Zealot,Amarr,Heavy Assault Cruiser,Medium,Combat,T2
+Sacrilege,Amarr,Heavy Assault Cruiser,Medium,Combat,T2
+Cerberus,Caldari,Heavy Assault Cruiser,Medium,Combat,T2
+Eagle,Caldari,Heavy Assault Cruiser,Medium,Combat,T2
+Ishtar,Gallente,Heavy Assault Cruiser,Medium,Combat,T2
+Deimos,Gallente,Heavy Assault Cruiser,Medium,Combat,T2
+Vagabond,Minmatar,Heavy Assault Cruiser,Medium,Combat,T2
+Muninn,Minmatar,Heavy Assault Cruiser,Medium,Combat,T2
+Ikitursa,Triglavian,Heavy Assault Cruiser,Medium,Combat,T2
+Devoter,Amarr,Heavy Interdiction Cruiser,Medium,Tackle,T2
+Onyx,Caldari,Heavy Interdiction Cruiser,Medium,Tackle,T2
+Phobos,Gallente,Heavy Interdiction Cruiser,Medium,Tackle,T2
+Broadsword,Minmatar,Heavy Interdiction Cruiser,Medium,Tackle,T2
+Guardian,Amarr,Logistics Cruiser,Medium,Logistics,T2
+Basilisk,Caldari,Logistics Cruiser,Medium,Logistics,T2
+Oneiros,Gallente,Logistics Cruiser,Medium,Logistics,T2
+Scimitar,Minmatar,Logistics Cruiser,Medium,Logistics,T2
+Zarmazd,Triglavian,Logistics Cruiser,Medium,Logistics,T2
+Legion,Amarr,Strategic Cruiser,Medium,Combat,T3
+Tengu,Caldari,Strategic Cruiser,Medium,Combat,T3
+Proteus,Gallente,Strategic Cruiser,Medium,Combat,T3
+Loki,Minmatar,Strategic Cruiser,Medium,Combat,T3
+Prophecy,Amarr,Battlecruiser,Medium,Combat,T1
+Harbinger,Amarr,Battlecruiser,Medium,Combat,T1
+Oracle,Amarr,Battlecruiser,Medium,Combat,T1
+Ferox,Caldari,Battlecruiser,Medium,Combat,T1
+Drake,Caldari,Battlecruiser,Medium,Combat,T1
+Naga,Caldari,Battlecruiser,Medium,Combat,T1
+Brutix,Gallente,Battlecruiser,Medium,Combat,T1
+Myrmidon,Gallente,Battlecruiser,Medium,Combat,T1
+Talos,Gallente,Battlecruiser,Medium,Combat,T1
+Cyclone,Minmatar,Battlecruiser,Medium,Combat,T1
+Hurricane,Minmatar,Battlecruiser,Medium,Combat,T1
+Tornado,Minmatar,Battlecruiser,Medium,Combat,T1
+Alligator,Guristas,Battlecruiser,Medium,Combat,Faction
+Khizriel,Angel Cartel,Battlecruiser,Medium,Combat,Faction
+Drekavac,Triglavian,Battlecruiser,Medium,Combat,T1
+Gnosis,SoCT,Battlecruiser,Medium,Combat,T1
+Cenotaph,Deathless Circle,Battlecruiser,Medium,Combat,Faction
+Harbinger Navy Issue,Amarr,Navy Battlecruiser,Medium,Combat,Faction
+Prophecy Navy Issue,Amarr,Navy Battlecruiser,Medium,Combat,Faction
+Drake Navy Issue,Caldari,Navy Battlecruiser,Medium,Combat,Faction
+Ferox Navy Issue,Caldari,Navy Battlecruiser,Medium,Combat,Faction
+Myrmidon Navy Issue,Gallente,Navy Battlecruiser,Medium,Combat,Faction
+Brutix Navy Issue,Gallente,Navy Battlecruiser,Medium,Combat,Faction
+Hurricane Fleet Issue,Minmatar,Navy Battlecruiser,Medium,Combat,Faction
+Cyclone Fleet Issue,Minmatar,Navy Battlecruiser,Medium,Combat,Faction
+Absolution,Amarr,Command Ship,Medium,Logistics,T2
+Damnation,Amarr,Command Ship,Medium,Logistics,T2
+Nighthawk,Caldari,Command Ship,Medium,Logistics,T2
+Vulture,Caldari,Command Ship,Medium,Logistics,T2
+Astarte,Gallente,Command Ship,Medium,Logistics,T2
+Eos,Gallente,Command Ship,Medium,Logistics,T2
+Claymore,Minmatar,Command Ship,Medium,Logistics,T2
+Sleipnir,Minmatar,Command Ship,Medium,Logistics,T2
+Abaddon,Amarr,Battleship,Large,Combat,T1
+Apocalypse,Amarr,Battleship,Large,Combat,T1
+Armageddon,Amarr,Battleship,Large,EWAR,T1
+Rokh,Caldari,Battleship,Large,Combat,T1
+Raven,Caldari,Battleship,Large,Combat,T1
+Scorpion,Caldari,Battleship,Large,EWAR,T1
+Hyperion,Gallente,Battleship,Large,Combat,T1
+Megathron,Gallente,Battleship,Large,Combat,T1
+Dominix,Gallente,Battleship,Large,Combat,T1
+Maelstrom,Minmatar,Battleship,Large,Combat,T1
+Tempest,Minmatar,Battleship,Large,Combat,T1
+Typhoon,Minmatar,Battleship,Large,Combat,T1
+Rattlesnake,Guristas,Battleship,Large,Combat,Faction
+Nightmare,Sansha,Battleship,Large,Combat,Faction
+Bhaalgorn,Blood Raiders,Battleship,Large,Combat,Faction
+Machariel,Angel Cartel,Battleship,Large,Combat,Faction
+Vindicator,Serpentis,Battleship,Large,Combat,Faction
+Nestor,Sisters of EVE,Battleship,Large,Exploration,Faction
+Barghest,Mordus Legion,Battleship,Large,Combat,Faction
+Leshak,Triglavian,Battleship,Large,Combat,T1
+Thunderchild,Edencom,Battleship,Large,Combat,T1
+Praxis,SoCT,Battleship,Large,Combat,T1
+Armageddon Navy Issue,Amarr,Navy Battleship,Large,Combat,Faction
+Apocalypse Navy Issue,Amarr,Navy Battleship,Large,Combat,Faction
+Scorpion Navy Issue,Caldari,Navy Battleship,Large,Combat,Faction
+Raven Navy Issue,Caldari,Navy Battleship,Large,Combat,Faction
+Dominix Navy Issue,Gallente,Navy Battleship,Large,Combat,Faction
+Megathron Navy Issue,Gallente,Navy Battleship,Large,Combat,Faction
+Typhoon Fleet Issue,Minmatar,Navy Battleship,Large,Combat,Faction
+Tempest Fleet Issue,Minmatar,Navy Battleship,Large,Combat,Faction
+Redeemer,Amarr,Black Ops,Large,Combat,T2
+Widow,Caldari,Black Ops,Large,Combat,T2
+Sin,Gallente,Black Ops,Large,Combat,T2
+Panther,Minmatar,Black Ops,Large,Combat,T2
+Marshal,Concord,Black Ops,Large,Combat,T2
+Paladin,Amarr,Marauder,Large,Combat,T2
+Golem,Caldari,Marauder,Large,Combat,T2
+Kronos,Gallente,Marauder,Large,Combat,T2
+Vargur,Minmatar,Marauder,Large,Combat,T2
+Babaroga,Triglavian,Marauder,Large,Combat,T2
+Apostle,Amarr,Carrier,Capital,Logistics,T1
+Aeon,Amarr,Carrier,Capital,Combat,T1
+Archon,Amarr,Carrier,Capital,Logistics,T1
+Minokawa,Caldari,Carrier,Capital,Logistics,T1
+Wyvern,Caldari,Carrier,Capital,Logistics,T1
+Chimera,Caldari,Carrier,Capital,Combat,T1
+Ninazu,Gallente,Carrier,Capital,Logistics,T1
+Nyx,Gallente,Carrier,Capital,Combat,T1
+Thanatos,Gallente,Carrier,Capital,Logistics,T1
+Lif,Minmatar,Carrier,Capital,Logistics,T1
+Hel,Minmatar,Carrier,Capital,Combat,T1
+Nidhoggur,Minmatar,Carrier,Capital,Logistics,T1
+Loggerhead,Guristas,Carrier,Capital,Logistics,Faction
+Revenant,Sansha,Carrier,Capital,Combat,Faction
+Dagon,Blood Raiders,Carrier,Capital,Logistics,Faction
+Vendetta,Serpentis,Carrier,Capital,Combat,Faction
+Revelation,Amarr,Dreadnought,Capital,Siege,T1
+Phoenix,Caldari,Dreadnought,Capital,Siege,T1
+Moros,Gallente,Dreadnought,Capital,Siege,T1
+Naglfar,Minmatar,Dreadnought,Capital,Siege,T1
+Caiman,Guristas,Dreadnought,Capital,Siege,Faction
+Chemosh,Blood Raiders,Dreadnought,Capital,Siege,Faction
+Sarathiel,Angel Cartel,Dreadnought,Capital,Siege,Faction
+Vehement,Serpentis,Dreadnought,Capital,Siege,Faction
+Zirnitra,Triglavian,Dreadnought,Capital,Siege,T1
+Revelation Navy Issue,Amarr,Navy Dreadnought,Capital,Siege,Faction
+Phoenix Navy Issue,Caldari,Navy Dreadnought,Capital,Siege,Faction
+Moros Navy Issue,Gallente,Navy Dreadnought,Capital,Siege,Faction
+Naglfar Fleet Issue,Minmatar,Navy Dreadnought,Capital,Siege,Faction
+Banes,Amarr,Lancer Dreadnought,Capital,Siege,T2
+Lancer,Caldari,Lancer Dreadnought,Capital,Siege,T2
+Hubris,Gallente,Lancer Dreadnought,Capital,Siege,T2
+Valravn,Minmatar,Lancer Dreadnought,Capital,Siege,T2
+Avatar,Amarr,Titan,Capital,Doomsday,T1
+Leviathan,Caldari,Titan,Capital,Doomsday,T1
+Erebus,Gallente,Titan,Capital,Doomsday,T1
+Ragnarok,Minmatar,Titan,Capital,Doomsday,T1
+Komodo,Guristas,Titan,Capital,Doomsday,Faction
+Molok,Blood Raiders,Titan,Capital,Doomsday,Faction
+Azariel,Angel Cartel,Titan,Capital,Doomsday,Faction
+Vanquisher,Serpentis,Titan,Capital,Doomsday,Faction
+Bestower,Amarr,Hauler,Medium,Transport,T1
+Sigil,Amarr,Hauler,Medium,Transport,T1
+Badger,Caldari,Hauler,Medium,Transport,T1
+Tayra,Caldari,Hauler,Medium,Transport,T1
+Nereus,Gallente,Hauler,Medium,Transport,T1
+Kyros,Gallente,Hauler,Medium,Transport,T1
+Epithal,Gallente,Hauler,Medium,Transport,T1
+Miasmos,Gallente,Hauler,Medium,Transport,T1
+Iteron Mark V,Gallente,Hauler,Medium,Transport,T1
+Hoarder,Minmatar,Hauler,Medium,Transport,T1
+Mammoth,Minmatar,Hauler,Medium,Transport,T1
+Wreathe,Minmatar,Hauler,Medium,Transport,T1
+Noctis,ORE,Hauler,Medium,Transport,T1
+Squall,Edencom,Hauler,Medium,Transport,T1
+Protuator,Amarr,Transport Ship,Medium,Transport,T2
+Impel,Amarr,Transport Ship,Medium,Transport,T2
+Crane,Caldari,Transport Ship,Medium,Transport,T2
+Bustard,Caldari,Transport Ship,Medium,Transport,T2
+Viator,Gallente,Transport Ship,Medium,Transport,T2
+Occator,Gallente,Transport Ship,Medium,Transport,T2
+Prowler,Minmatar,Transport Ship,Medium,Transport,T2
+Mastodon,Minmatar,Transport Ship,Medium,Transport,T2
+Deluge,Edencom,Transport Ship,Medium,Transport,T2
+Torrent,Edencom,Transport Ship,Medium,Transport,T2
+Providence,Amarr,Freighter,Large,Transport,T1
+Charon,Caldari,Freighter,Large,Transport,T1
+Obelisk,Gallente,Freighter,Large,Transport,T1
+Fenrir,Minmatar,Freighter,Large,Transport,T1
+Bowhead,ORE,Freighter,Large,Transport,T1
+Avalanche,Edencom,Freighter,Large,Transport,T1
+Ark,Amarr,Jump Freighter,Large,Transport,T2
+Rhea,Caldari,Jump Freighter,Large,Transport,T2
+Anshar,Gallente,Jump Freighter,Large,Transport,T2
+Nomad,Minmatar,Jump Freighter,Large,Transport,T2
+Venture,ORE,Frigate,Small,Mining,T1
+Prospect,ORE,Frigate,Small,Mining,T2
+Endurance,ORE,Frigate,Small,Mining,T2
+Procurer,ORE,Barge,Medium,Mining,T1
+Retriever,ORE,Barge,Medium,Mining,T1
+Covetor,ORE,Barge,Medium,Mining,T1
+Hulk,ORE,Exhumer,Medium,Mining,T2
+Mackinaw,ORE,Exhumer,Medium,Mining,T2
+Skiff,ORE,Exhumer,Medium,Mining,T2
+Porpoise,ORE,Command Ship,Medium,Logistics,T1
+Orca,ORE,Command Ship,Medium,Logistics,T1
+Rorqual,ORE,Capital,Capital,Mining,T1
