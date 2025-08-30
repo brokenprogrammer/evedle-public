@@ -29,7 +29,7 @@ Burst,Minmatar,Frigate,Small,Logistics,T1
 Vigil,Minmatar,Frigate,Small,EWAR,T1
 Worm,Guristas,Frigate,Small,Combat,Faction
 Succubus,Sansha,Frigate,Small,Combat,Faction
-Cruor,Blood Raiders,Frigate,Small,EWAR,Faction
+Cruor,Blood Raiders,Frigate,Small,Combat,Faction
 Dramiel,Angel Cartel,Frigate,Small,Combat,Faction
 Daredevil,Serpentis,Frigate,Small,Combat,Faction
 Astero,Sisters of EVE,Frigate,Small,Exploration,Faction
@@ -336,6 +336,6 @@ Covetor,ORE,Barge,Medium,Mining,T1
 Hulk,ORE,Exhumer,Medium,Mining,T2
 Mackinaw,ORE,Exhumer,Medium,Mining,T2
 Skiff,ORE,Exhumer,Medium,Mining,T2
-Porpoise,ORE,Command Ship,Medium,Mining,T1
-Orca,ORE,Command Ship,Large,Mining,T1
+Porpoise,ORE,Industrial Command Ship,Medium,Mining,T1
+Orca,ORE,Industrial Command Ship,Large,Mining,T1
 Rorqual,ORE,Capital,Capital,Mining,T1
