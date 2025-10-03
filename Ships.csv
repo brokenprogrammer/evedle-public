@@ -254,16 +254,16 @@ Vargur,Minmatar,Marauder,Large,Combat,T2
 Babaroga,Triglavian,Marauder,Large,Combat,T2
 Apostle,Amarr,Carrier,Capital,Logistics,T1
 Aeon,Amarr,Carrier,Capital,Combat,T1
-Archon,Amarr,Carrier,Capital,Logistics,T1
+Archon,Amarr,Carrier,Capital,Combat,T1
 Minokawa,Caldari,Carrier,Capital,Logistics,T1
-Wyvern,Caldari,Carrier,Capital,Logistics,T1
+Wyvern,Caldari,Carrier,Capital,Combat,T1
 Chimera,Caldari,Carrier,Capital,Combat,T1
 Ninazu,Gallente,Carrier,Capital,Logistics,T1
 Nyx,Gallente,Carrier,Capital,Combat,T1
-Thanatos,Gallente,Carrier,Capital,Logistics,T1
+Thanatos,Gallente,Carrier,Capital,Combat,T1
 Lif,Minmatar,Carrier,Capital,Logistics,T1
 Hel,Minmatar,Carrier,Capital,Combat,T1
-Nidhoggur,Minmatar,Carrier,Capital,Logistics,T1
+Nidhoggur,Minmatar,Carrier,Capital,Combat,T1
 Loggerhead,Guristas,Carrier,Capital,Logistics,Faction
 Revenant,Sansha,Carrier,Capital,Combat,Faction
 Dagon,Blood Raiders,Carrier,Capital,Logistics,Faction
@@ -317,16 +317,16 @@ Prowler,Minmatar,Transport Ship,Medium,Transport,T2
 Mastodon,Minmatar,Transport Ship,Medium,Transport,T2
 Deluge,Edencom,Transport Ship,Medium,Transport,T2
 Torrent,Edencom,Transport Ship,Medium,Transport,T2
-Providence,Amarr,Freighter,Large,Transport,T1
-Charon,Caldari,Freighter,Large,Transport,T1
-Obelisk,Gallente,Freighter,Large,Transport,T1
-Fenrir,Minmatar,Freighter,Large,Transport,T1
-Bowhead,ORE,Freighter,Large,Transport,T1
-Avalanche,Edencom,Freighter,Large,Transport,T1
-Ark,Amarr,Jump Freighter,Large,Transport,T2
-Rhea,Caldari,Jump Freighter,Large,Transport,T2
-Anshar,Gallente,Jump Freighter,Large,Transport,T2
-Nomad,Minmatar,Jump Freighter,Large,Transport,T2
+Providence,Amarr,Freighter,Capital,Transport,T1
+Charon,Caldari,Freighter,Capital,Transport,T1
+Obelisk,Gallente,Freighter,Capital,Transport,T1
+Fenrir,Minmatar,Freighter,Capital,Transport,T1
+Bowhead,ORE,Freighter,Capital,Transport,T1
+Avalanche,Edencom,Freighter,Capital,Transport,T1
+Ark,Amarr,Jump Freighter,Capital,Transport,T2
+Rhea,Caldari,Jump Freighter,Capital,Transport,T2
+Anshar,Gallente,Jump Freighter,Capital,Transport,T2
+Nomad,Minmatar,Jump Freighter,Capital,Transport,T2
 Venture,ORE,Frigate,Small,Mining,T1
 Prospect,ORE,Frigate,Small,Mining,T2
 Endurance,ORE,Frigate,Small,Mining,T2
