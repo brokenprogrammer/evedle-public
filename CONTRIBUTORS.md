@@ -4,3 +4,4 @@
 - **zeyuanfu** (@zeyuanfu) - Classification, suggestions
 - **DashCee** (@DashCee) - Spelling mistake
 - **OddZero** (@OddZero) - Bug reports & helping with fixes
+- **nukeLEARg** (@nukeLEARg) - Classification pull request
