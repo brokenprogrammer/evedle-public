@@ -256,7 +256,7 @@ Apostle,Amarr,Carrier,Capital,Logistics,T1
 Aeon,Amarr,Carrier,Capital,Combat,T1
 Archon,Amarr,Carrier,Capital,Logistics,T1
 Minokawa,Caldari,Carrier,Capital,Logistics,T1
-Wyvern,Caldari,Carrier,Capital,Logistics,T1
+Wyvern,Caldari,Carrier,Capital,Combat,T1
 Chimera,Caldari,Carrier,Capital,Combat,T1
 Ninazu,Gallente,Carrier,Capital,Logistics,T1
 Nyx,Gallente,Carrier,Capital,Combat,T1
@@ -298,7 +298,7 @@ Sigil,Amarr,Hauler,Medium,Transport,T1
 Badger,Caldari,Hauler,Medium,Transport,T1
 Tayra,Caldari,Hauler,Medium,Transport,T1
 Nereus,Gallente,Hauler,Medium,Transport,T1
-Kyros,Gallente,Hauler,Medium,Transport,T1
+Kryos,Gallente,Hauler,Medium,Transport,T1
 Epithal,Gallente,Hauler,Medium,Transport,T1
 Miasmos,Gallente,Hauler,Medium,Transport,T1
 Iteron Mark V,Gallente,Hauler,Medium,Transport,T1
@@ -307,7 +307,7 @@ Mammoth,Minmatar,Hauler,Medium,Transport,T1
 Wreathe,Minmatar,Hauler,Medium,Transport,T1
 Noctis,ORE,Hauler,Medium,Transport,T1
 Squall,Edencom,Hauler,Medium,Transport,T1
-Protuator,Amarr,Transport Ship,Medium,Transport,T2
+Prorator,Amarr,Transport Ship,Medium,Transport,T2
 Impel,Amarr,Transport Ship,Medium,Transport,T2
 Crane,Caldari,Transport Ship,Medium,Transport,T2
 Bustard,Caldari,Transport Ship,Medium,Transport,T2
